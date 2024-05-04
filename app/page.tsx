@@ -1,11 +1,5 @@
 const Home = () => {
-  return (
-    <div className="bg-red-500 p-5">
-    
-    <h1>hello tailwind!</h1>
-    
-    </div>
-  );
+  return <div className="py-5* bg-red-500"></div>;
 };
 
 export default Home;
