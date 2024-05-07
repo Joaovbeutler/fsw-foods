@@ -1,5 +1,9 @@
+import Header from "./_components/header";
+
 const Home = () => {
-  return <div className="py-5* bg-red-500"></div>;
+  return (
+    <Header />
+  );
 };
 
 export default Home;
