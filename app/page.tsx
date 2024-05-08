@@ -1,5 +1,5 @@
-import { Search } from "lucide-react";
 import Header from "./_components/header";
+import Search from "./_components/search";
 
 const Home = () => {
   return <>
