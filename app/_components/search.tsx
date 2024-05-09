@@ -6,7 +6,7 @@ const Search = () => {
     return ( 
         <div className="flex gap-2">
             <Input 
-             placeholder="Buscar restaurantes"
+             placeholder="Buscar Restaurantes"
              className="border-none"/>
             <Button size="icon" type="submit">
                 <SearchIcon size={20} />
