@@ -24,6 +24,7 @@ const Home = () => {
         quality={100}
       />
     </div>
+    
   </>;
 };
 
